@@ -1,6 +1,6 @@
 # Higher-or-Lower-Follower-Count-Game
  This is a terminal-based Python game where players guess which celebrity/social media account has more followers on Instagram. 
- The game compares two random accounts and keeps track of the score until the user guesses wrong.
+ <br>The game compares two random accounts and keeps track of the score until the user guesses wrong.
 
  Features:
 <br>-Randomly selects two accounts from a dataset
