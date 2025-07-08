@@ -61,10 +61,3 @@ while game_should_continue:
     else:
         print(f"Your are wrong. final score: {score} ")
         game_should_continue = False
-
-
- # Score Keeping
-
- # Make the game repeatable
-
- # making account at position B become the next account at position A.
